@@ -87,6 +87,7 @@
 https://blog.acheremisov.com/2018/01/oscp-guide-where-to-start-what-to-read-how-to-practice/
 https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html
 https://www.alienvault.com/blogs/security-essentials/how-to-prepare-to-take-the-oscp
+https://doc.lagout.org/security/
 
 ## License
 
