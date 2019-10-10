@@ -83,6 +83,11 @@
 - [RTFM: Red Team Field Manual](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504)
 - [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws (2nd Edition)](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting-ebook/dp/B005LVQA9S)
 
+## More
+https://blog.acheremisov.com/2018/01/oscp-guide-where-to-start-what-to-read-how-to-practice/
+https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html
+https://www.alienvault.com/blogs/security-essentials/how-to-prepare-to-take-the-oscp
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
